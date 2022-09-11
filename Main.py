@@ -12,3 +12,7 @@ while True:
     hn.CheckEvent()
     newGame.show(screen)
     pg.display.update()
+
+# hn.CheckEvent()
+# newGame.show(screen)
+# pg.display.update()
